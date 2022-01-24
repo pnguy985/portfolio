@@ -1,15 +1,13 @@
 ---
 title: About Alembic
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## Preston Nguyen
+  Interested in the field of Data Analytics
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I enjoy the idea and purpose of data and business intelligence analytics - building a narrative with data. What draws me to this career path is that the stories produced by analyzing data can set in motion decisions that can impact an entire business. To get to this goal, I have gained experience in my internships, including identifying and measuring KPIs, automating data extracting and cleaning processes, and building models to explore different objectives. With my recent graduation as a Business Administration - Information Systems Major from CSU Fullerton, I hope to further develop my analytics skills as I continue working in this field."
 ---
 
 I enjoy the idea and purpose of data and business intelligence analytics - building a narrative with data. What draws me to this career path is that the stories produced by analyzing data can set in motion decisions that can impact an entire business. To get to this goal, I have gained experience in my internships, including identifying and measuring KPIs, automating data extracting and cleaning processes, and building models to explore different objectives. With my recent graduation as a Business Administration - Information Systems Major from CSU Fullerton, I hope to further develop my analytics skills as I continue working in this field.
-
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
 ## Features
 
