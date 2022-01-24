@@ -4,7 +4,7 @@ feature_text: |
   ## Alembic
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "I enjoy the idea and purpose of data and business intelligence analytics - building a narrative with data. What draws me to this career path is that the stories produced by analyzing data can set in motion decisions that can impact an entire business. To get to this goal, I have gained experience in my internships, including identifying and measuring KPIs, automating data extracting and cleaning processes, and building models to explore different objectives. With my recent graduation as a Business Administration - Information Systems Major from CSU Fullerton, I hope to further develop my analytics skills as I continue working in this field."
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
